@@ -8,6 +8,21 @@ import org.springframework.stereotype.Component;
 @Slf4j
 public class MyScheduler {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    /*
     @Scheduled(cron = "1 * * * * ?")
     public void s1()
